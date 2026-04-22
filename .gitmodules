@@ -1,0 +1,12 @@
+[submodule "Projects/MF2143-Project"]
+	path = Projects/MF2143-Project
+	url = https://github.com/kaktus-com/MF2143-Project.git
+[submodule "Projects/PX4-Autopilot"]
+	path = Projects/PX4-Autopilot
+	url = https://github.com/b-rnab/PX4-Autopilot.git
+[submodule "Projects/BloodShareMobile"]
+	path = Projects/BloodShareMobile
+	url = https://github.com/Mohammadasfour0743/BloodShareMobile.git
+[submodule "Projects/cell-intelligence"]
+	path = Projects/cell-intelligence
+	url = https://github.com/jannikhoesch/cell-intelligence.git
